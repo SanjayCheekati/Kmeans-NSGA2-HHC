@@ -138,8 +138,9 @@ scikit-learn >= 1.0.0
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/enhanced-hhc-optimization.git
-cd enhanced-hhc-optimization
+git clone https://github.com/SanjayCheekati/Kmeans-NSGA2-HHC.git
+cd Kmeans-NSGA2-HHC
+
 
 # Install dependencies
 pip install -r requirements.txt
@@ -602,8 +603,8 @@ print(f"Multi-objective performance: {results['performance_metrics']}")
 ### **Development Setup**
 ```bash
 # Fork and clone repository
-git clone https://github.com/yourusername/multi-objective-genetic-clustering.git
-cd multi-objective-genetic-clustering
+git clone https://github.com/SanjayCheekati/Kmeans-NSGA2-HHC?tab=readme-ov-file#-problem-statement
+cd Kmeans-NSGA2-HHC
 
 # Create research environment
 python -m venv research_env
@@ -687,7 +688,7 @@ python solomon_benchmark_test.py
 
 ### **Research Inquiries**
 - 💬 **GitHub Issues**: Technical questions and bug reports
-- 📧 **Academic Collaboration**: research.collaboration@university.edu
+- 📧 **Academic Collaboration**: csanjaygoud_cse235a0511@mgit.ac.in mharshitha_cse235a0510@mgit.ac.in
 - 🎓 **Student Projects**: Available for thesis supervision and course projects
 - 🏢 **Industry Partnerships**: Consulting for optimization applications
 
